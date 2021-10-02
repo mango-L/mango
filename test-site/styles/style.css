@@ -1,0 +1,50 @@
+Ul:hover{
+	color:red;
+}
+
+
+
+html {
+	font-size: 24px;
+	font-family: 'Noto Sans SC', sans-serif;
+}
+
+h1 {
+	font-size:60px;
+	text-align:center;
+}
+
+p,li {
+	font-size:16px;
+	line-height:2;
+	letter-spacing:1px;
+}
+
+body {
+	width:800px;
+	margin:80px auto;
+	background-color:#FF9500;
+	padding:0 100px 20px 100px;
+	border:5px solid black;
+}
+
+/* h1{
+	margin:0;
+	padding:80px;
+	border:3px solid red;
+	color:#00539f;
+	text-shadow:3px 3px 1px black;
+}*/
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 3px 3px 1px black;
+}
+
+img{
+	display:block;
+	margin:20px auto;
+	width:600px;
+}
